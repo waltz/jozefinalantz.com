@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(/ptserif-regular.ttf) format('truetype');
+}
+
+body {
+  font-family: 'PT Serif', serif;
+  background-color: #fefefe;
+}
+
+#container {
+  width: 100%;
+}
+
+#content {
+  width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+}
