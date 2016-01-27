@@ -15,7 +15,13 @@ body {
 }
 
 #content {
-  width: 30em;
+  padding: 1em;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media screen and (min-width: 680px) {
+  #content {
+    max-width: 30em;
+  }
 }
