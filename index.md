@@ -5,9 +5,6 @@ title: Jozefina Lantz Consulting
 
 # {{ page.title }}
 
-* [508-502-8174](tel:508-502-8174)
-* [jcalantz@gmail.com](mailto:jcalantz@gmail.com)
-
 With 20 years of experience, we will help you establish creative and
 business-savvy management with program design, development, and implementation
 as needed. We will guide you in order to combine your vision, mission and
@@ -37,3 +34,5 @@ of your program or project succeeding or being funded, and the effort demanded.
 * Strategic planning, program design, and implementation
 * Budget and funding plan development
 * Grant writing
+
+_For further information please contact me at [jcalantz@gmail.com](mailto:jcalantz@gmail.com)_
